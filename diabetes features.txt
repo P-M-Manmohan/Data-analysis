@@ -1,0 +1,26 @@
+gender  -  Gender refers to the biological sex of the individual, which can have an impact on their susceptibility to diabetes.
+
+
+age  -  Age is an important factor as diabetes is more commonly diagnosed in older adults.Age ranges from 0-80 in our dataset.
+
+
+
+hypertension -  Hypertension is a medical condition in which the blood pressure in the arteries is persistently elevated. It has values a 0
+
+
+
+smoking_history  -  Smoking history is also considered a risk factor for diabetes and can exacerbate the complications associated
+
+
+bmi  -  BMI (Body Mass Index) is a measure of body fat based on weight and height. Higher BMI values are linked to a higher risk
+
+
+
+HbA1c_level - HbA1c (Hemoglobin A1c) level is a measure of a person's average blood sugar level over the past 2-3 months. Higher levels
+
+
+
+blood_glucose_level -  Blood glucose level refers to the amount of glucose in the bloodstream at a given time. High blood glucose levels are a key
+
+
+diabetes - Diabetes is the target variable being predicted, with values of 1 indicating the presence of diabetes and 0 indicating the
